@@ -38,7 +38,7 @@ Call sample page under http://YOUR-CQ-HOSTNAME:AND-PORT/libs/bootstrap/content/e
 
 **Burkhard Pauli**
 
-+ [http://twitter.com/mdo](https://twitter.com/bupauli)
++ [http://twitter.com/bupauli](https://twitter.com/bupauli)
 
 ## Copyright and license
 
