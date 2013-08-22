@@ -1,0 +1,6 @@
+{
+  "name": "CQ-Bootstrap ClientLib",
+  "dependencies": {
+    "bootstrap": "latest"
+  }
+}

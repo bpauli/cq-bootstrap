@@ -1,0 +1,28 @@
+{
+  "name": "bootstrap-cq",
+  "version": "0.0.1",
+  "description": "Install latest twitter bootstrap framework as CQ/AEM client-side library",
+  "repository": "",
+  "author": "Burkhard Pauli <mail@bpauli.de>",
+  "licenses": [
+    {
+      "type": "Apache-2.0",
+      "url": "http://www.apache.org/licenses/LICENSE-2.0"
+    }
+  ],
+  "dependencies": {
+    "grunt": "~0.4.1"
+  },
+  "devDependencies": {
+    "bower": "~1.2.2",
+    "grunt-shell": "~0.3.1",
+    "grunt-sling-content": "~0.0.3",
+    "grunt-contrib-copy": "~0.4.1",
+    "grunt-contrib-clean": "~0.5.0"
+  },
+  "keywords": [
+    "Adobe CQ",
+    "Adobe Experience Manager",
+    "bootstrap"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "jcr:primaryType": "cq:ClientLibraryFolder",
+  "categories": ["bootstrap"],
+  "categories@TypeHint": "String[]",
+  "embed": ["bootstrap.jquery"],
+  "embed@TypeHint": "String[]"
+}
