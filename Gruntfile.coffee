@@ -2,7 +2,7 @@ module.exports = (grunt) ->
 
   # Constants
   CQ_HOST = 'localhost'
-  CQ_PORT = '4504'
+  CQ_PORT = '4502'
   CQ_USER = 'admin'
   CQ_PASSWORD = 'admin'
 

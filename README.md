@@ -15,7 +15,7 @@ from https://github.com/francescomari/grunt-sling-content
 4. Run `grunt`
 
 ## Test
-Call sample page under http://YOUR-CQ-HOSTNAME:AND-PORT/libs/bootstrap/content/example.html
+Call sample page at http://YOUR-CQ-HOSTNAME:AND-PORT/libs/bootstrap/content/example.html
 
 ## Using
 
@@ -29,7 +29,7 @@ Call sample page under http://YOUR-CQ-HOSTNAME:AND-PORT/libs/bootstrap/content/e
   <div class="container">
 ....
   </div>
-  <cq:includeClientLib js="bootstrap" />
+    <cq:includeClientLib js="bootstrap" />
   </body>
 </html>
 ```
@@ -38,7 +38,7 @@ Call sample page under http://YOUR-CQ-HOSTNAME:AND-PORT/libs/bootstrap/content/e
 
 **Burkhard Pauli**
 
-+ [http://twitter.com/mdo](http://twitter.com/mdo)
++ [http://twitter.com/bupauli](https://twitter.com/bupauli)
 
 ## Copyright and license
 

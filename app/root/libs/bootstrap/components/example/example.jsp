@@ -26,7 +26,7 @@
       <div class="col-md-1">12</div>
     </div>
 
-    <h2>From example</h2>
+    <h2>Form example</h2>
     <div class="row">
       <form class="form-inline" role="form">
         <div class="form-group">
