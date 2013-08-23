@@ -1,5 +1,4 @@
 {
   "jcr:primaryType": "cq:ClientLibraryFolder",
-  "categories": ["bootstrap"],
-  "categories@TypeHint": "String[]"
+  "categories": ["bootstrap"]
 }
